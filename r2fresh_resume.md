@@ -22,17 +22,20 @@
 
 ### [- EnglishFork -](http://www.englishfork.co.kr)
 
-- **담당 : 교육용 컨텐츠 플래시 에니메이션 개발**
-- **기간 : 2000년 12월 ~ 2001년 12월**
+* **담당 : 교육용 컨텐츠 플래시 에니메이션 개발
+
+* **기간 : 2000년 12월 ~ 2001년 12월
 
 ### [- ButtonClub -](http://buttonclub.com)
 
 - **담당 : 회사 웹사이트 개발 및 운영 **
+
 - **기간 : 2002년 1월 ~ 2002년 12월**
 
 ### [- Nautilus Hyosung -](http://www.nautilus.hyosung.co.kr)
 
 - **담당 : IC카드 웹사이트 개발, ATM기기 화면 개발 **
+
 - **기간 : 2003년 3월 ~ 2005년 9월**
 
 ### [- Designblue -](http://www.designblue.co.kr)
