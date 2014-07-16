@@ -32,29 +32,28 @@
 
 ### [- Nautilus Hyosung -](http://www.nautilus.hyosung.co.kr)
 
-- **담당 : IC카드 웹사이트 개발, ATM기기 화면 개발 **
-
-- **기간 : 2003년 3월 ~ 2005년 9월**
+* 담당 : IC카드 웹사이트 개발, ATM기기 화면 개발
+* 기간 : 2003년 3월 ~ 2005년 9월
 
 ### [- Designblue -](http://www.designblue.co.kr)
 
-- **담당 : ActionScript 개발 및 프로젝트 관리 **
-- **기간 : 2005년 10월 ~ 2006년 9월**
+* 담당 : ActionScript 개발 및 프로젝트 관리
+* 기간 : 2005년 10월 ~ 2006년 9월
 
 ### [- Liquid-force -](http://liquid-force.co.kr)
 
-- **담당 : ActionScript 팀 개발 담당 및 관리**
-- **기간 : 2006년 9월 ~ 2007년 9월**
+* 담당 : ActionScript 팀 개발 담당 및 관리
+* 기간 : 2006년 9월 ~ 2007년 9월
 
 ### [- KTH -](http://www.kthcorp.com)
 
-- **담당 : Pudding, blog, Newspress, xbox, baas.io 개발 담당**
-- **기간 : 2006년 9월 ~ 2013년 3월**
+* 담당 : Pudding, blog, Newspress, xbox, baas.io 개발 담당
+* 기간 : 2006년 9월 ~ 2013년 3월
 
 ### [- KT -](http://www.kthcorp.com)
 
-- **담당 : Baas.io Front End 개발 담당**
-- **기간 : 2013년 4월 ~ **
+* 담당 : Baas.io Front End 개발 담당
+* 기간 : 2013년 4월 ~
 
 
 ## Reader
