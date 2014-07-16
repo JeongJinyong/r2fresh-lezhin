@@ -52,8 +52,87 @@
 
 ### [- KT -](http://www.kthcorp.com)
 
-* 담당 : Baas.io Front End 개발 담당
+* 담당 : Baas.io Front End 개발 및 Javascript SDK 개발 담당
 * 기간 : 2013년 4월 ~
+
+
+
+## Project
+
+### Nautilus Hyosung ATM
+
+** ATM 화면 개발 **
+
+> 은행에서 사용하는 현금인출기 및 공과금수납기 화면을 개발.
+
+> C언어로 개발된 Application에서 Flash를 로드 하는 방식으로 진행 되었으며, 로드되는 플래시 컨텐츠 개발을 담당.
+
+> 포토샵, 일러스트으로 디자인하여 플래시 컨텐츠 개발
+
+> ATM기의 화면 기초 구조를 잡았으며, 현재도 그 구조를 그대로 사용 개발 중
+
+
+### Pudding Gallery
+
+** 사진 업로드 및 갤러리 개발 **
+
+> 대용량 사진 및 여러장의 사진을 업로드 할 수 있도록 ActionScript를 사용하여 개발
+
+> 여러 장의 사진을 효과적으로 볼 수 있도록 갤러리를 개발 했으며, 반응형 웹 형태로 개발
+
+### Pudding Video & Mbox
+
+** 동영상 업로드 및 동영상 플레이어**
+
+> 대용량의 동영상을 업로드를 할 수 있도록 ActionScript를 사용하여 개발
+
+> 업로드 된 동영상을 플래이 할 수 있는 플레이어 개발
+
+> 개발 된 동영상 플레이어는 다양한 영상을 플레이 가능하도록 만들었으며, 공통 모듈화 하여 다른 서비스에서도 사용
+
+### Ucloud
+
+** DeskTop Client Application 개발**
+
+> 플래시의 AIR를 사용하여 한번의 개발로 다양한 운영체제에서 사용 가능하도록 개발
+
+> FlashDeveloper의 오픈 에디터에서 ActionScript만을 사용하여 클라이언트 개발
+
+### Paran Blog
+
+** Blog Editor 개발**
+
+> Blog의 게시물 작성 시 작성하는 Editor 창 개발 및 운영
+
+> Javascript를 사용하여 개발 했지만, 플레이어와 업로드는 ActionScript로 개발
+
+### Pudding Camera
+
+** 프런트 페이지와 웹 개발(자바) **
+
+> Pudding 카메라에 찍은 사진 보는 웹사이트 개발
+
+> Spring FrameWork를 사용하여 클라이언트 개발 참여
+
+### JHC Project
+
+** JavaScript, HTML5, CSS3 를 사용한 개발 **
+
+> 최신의 프런트 기술을 사용하여, ImageEditor, FileUploader, VideoPlayer 개발
+
+> 프로토타입 형태로 개발이 되었으며, TF형식으로 하여 리더로 개발 진행
+
+### Newspresso
+
+** Hybrid App 개발 및 운영 **
+
+### Baas.io
+
+** Portal Page 개발 및 SDK 개발 **
+
+
+
+
 
 
 ## Reader
@@ -65,15 +144,6 @@ https://www.youtube.com/user/gotreehouse
 >매주 최신의 javascript,css,html의 기술 소식을 알 수 있습니다
 
 >가장 열심히 보고 있는 Reader입니다.
-
-
-## Project
-
-### Nautilus Hyosung
-
-** ATM 화면 개발 **
-
-### Pudding
 
 
 
